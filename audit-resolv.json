@@ -1,0 +1,38 @@
+{
+  "534|karma>socket.io>debug": {
+    "fix": 1
+  },
+  "534|karma>socket.io>engine.io>debug": {
+    "fix": 1
+  },
+  "534|karma>socket.io>socket.io-adapter>debug": {
+    "fix": 1
+  },
+  "534|karma>socket.io>socket.io-client>debug": {
+    "fix": 1
+  },
+  "534|karma>socket.io>socket.io-client>engine.io-client>debug": {
+    "fix": 1
+  },
+  "534|karma>socket.io>socket.io-adapter>socket.io-parser>debug": {
+    "fix": 1
+  },
+  "534|karma>socket.io>socket.io-client>socket.io-parser>debug": {
+    "fix": 1
+  },
+  "534|karma>socket.io>socket.io-parser>debug": {
+    "fix": 1
+  },
+  "577|karma>lodash": {
+    "fix": 1
+  },
+  "550|karma>socket.io>engine.io>ws": {
+    "fix": 1
+  },
+  "550|karma>socket.io>socket.io-client>engine.io-client>ws": {
+    "fix": 1
+  },
+  "528|karma>socket.io>socket.io-client>engine.io-client>parsejson": {
+    "fix": 1
+  }
+}

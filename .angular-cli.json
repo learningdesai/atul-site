@@ -19,9 +19,15 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "../src/assets/css/animate.css",
+        "../src/assets/css/main.css",
         "styles.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "../src/assets/js/animate.js",
+        "../src/assets/js/bootstrap.min.js",
+        "../src/assets/js/custom.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
